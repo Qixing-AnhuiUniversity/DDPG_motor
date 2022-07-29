@@ -1,2 +1,2 @@
 # DDPG_motor
-Using DDPG to generate the lookup table for torque improving. 
+Using DDPG to search the optimal torque of induction motor under different currents conditions. 
